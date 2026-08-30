@@ -1,6 +1,6 @@
 ---
 name: using-agent-skills
-description: Discovers and invokes agent skills. Use when starting a session or when you need to discover which skill applies to the current task. This is the meta-skill that governs how all other skills are discovered and invoked.
+description: Use this skill to decide which workflow applies to a piece of work and route the request to the right skill in the pack.
 ---
 
 # Using Agent Skills

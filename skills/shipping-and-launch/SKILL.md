@@ -1,6 +1,6 @@
 ---
 name: shipping-and-launch
-description: Prepares production launches. Use when preparing to deploy to production. Use when you need a pre-launch checklist, when setting up monitoring, when planning a staged rollout, or when you need a rollback strategy.
+description: Use this skill when preparing to go live or shipping to production to run a pre-launch checklist and establish a rollback plan for your deploy.
 ---
 
 # Shipping and Launch

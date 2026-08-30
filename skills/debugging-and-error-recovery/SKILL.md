@@ -1,6 +1,6 @@
 ---
 name: debugging-and-error-recovery
-description: Guides systematic root-cause debugging. Use when tests fail, builds break, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need a systematic approach to finding and fixing the root cause rather than guessing.
+description: Use this skill to find the root cause and figure out what broke when your app crashes with a TypeError, an API is throwing intermittent 500 errors in production, or a test that passed yesterday fails today.
 ---
 
 # Debugging and Error Recovery

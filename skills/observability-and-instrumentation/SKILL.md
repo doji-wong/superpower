@@ -1,6 +1,6 @@
 ---
 name: observability-and-instrumentation
-description: Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when production issues are reported but you can't tell what happened from the available data.
+description: Instruments code by adding structured logging, metrics, tracing to follow requests across services, and configuring alerts to page on for specific endpoints.
 ---
 
 # Observability and Instrumentation

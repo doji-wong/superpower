@@ -1,6 +1,6 @@
 ---
 name: frontend-ui-engineering
-description: Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating components, implementing layouts, meeting WCAG accessibility requirements, managing state, or when the output needs to look and feel production-quality rather than AI-generated.
+description: Builds and refactors pages into responsive, mobile-friendly, and WCAG-compliant accessible UIs using reusable components with proper state management and keyboard support.
 ---
 
 # Frontend UI Engineering
